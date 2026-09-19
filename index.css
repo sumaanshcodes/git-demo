@@ -1,5 +1,11 @@
 h{
+<<<<<<< HEAD
     color:aliceblue,
     margin: 5,
     padding: 5,
+=======
+    color:aliceblue
+    margin: 5;
+    padding: 3;
+>>>>>>> feature
 }
